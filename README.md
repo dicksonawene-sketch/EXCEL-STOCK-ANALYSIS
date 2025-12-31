@@ -3,7 +3,8 @@
 
 An Excel-based data analysis project that explores trading volume, average close price, and monthly returns across multiple global companies.  
 Built using Python (for data generation), Excel Power Query, Power Pivot, and DAX.  
-Open to correction and feedback.
+
+
 
 ---
 
