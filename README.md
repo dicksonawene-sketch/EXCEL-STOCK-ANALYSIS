@@ -1,4 +1,4 @@
-```markdown
+
 📊 Stock Portfolio Dashboard
 
 An Excel-based data analysis project that explores trading volume, average close price, and monthly returns across multiple global companies.  
