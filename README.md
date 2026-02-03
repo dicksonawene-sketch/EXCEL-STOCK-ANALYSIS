@@ -1,5 +1,5 @@
 
-📊 Stock Portfolio Dashboard
+# 📊 Stock Portfolio Dashboard
 
 An Excel-based data analysis project that explores trading volume, average close price, and monthly returns across multiple global companies.  
 Built using Python (for data generation), Excel Power Query, Power Pivot, and DAX.  
@@ -28,7 +28,7 @@ This dashboard was created not just to visualize data, but to tell a story and u
 
 ---
 
-📈 Dashboard Highlights
+## 📈 Dashboard Highlights
 
 Here’s what the data quietly revealed:
 
